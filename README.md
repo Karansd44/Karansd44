@@ -1,4 +1,4 @@
-[![MasterHead](https://i.imgur.com/FnvscC7.gif)]([https://rishavchanda.io](https://www.linkedin.com/in/karan-s-d-69577434a/))
+[![MasterHead](https://i.imgur.com/FnvscC7.gif)]([https://rishavchanda.io](https://personal-porfolio-red.vercel.app/))
 
 <h1 align="center">Hi 👋, I'm Karan SD</h1>
 <h3 align="center">A passionate Full-stack developer from India</h3>
