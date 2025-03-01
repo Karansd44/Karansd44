@@ -29,3 +29,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karansd44&show_icons=true&locale=en" alt="karansd44" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karansd44&" alt="karansd44" /></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karansd44/karansd44/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karansd44/karansd44/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/karansd44/karansd44/output/github-snake.svg" />
+</picture>
